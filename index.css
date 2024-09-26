@@ -20,7 +20,9 @@ h1{
 hr {
   margin-top: 60px;
 }
-
+.none{
+    none
+}
 .link-to-github{
     padding: 0.5rem 1rem;
     color: #fff;
