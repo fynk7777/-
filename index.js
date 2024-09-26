@@ -95,9 +95,9 @@ var App = /** @class */ (function () {
                 + urlSearchParams.toString();
             window.history.replaceState({ path: url }, "", url);
             _this.copyString(window.location.href);
-            _this.createLinkButton.innerText = 'copied';
+            _this.createLinkButton.innerText = 'コピーしました';
             setTimeout(function () {
-                _this.createLinkButton.innerText = 'create link';
+                _this.createLinkButton.innerText = 'リンクを作成';
             }, 2000);
         };
         this.copyString = function (string) {
