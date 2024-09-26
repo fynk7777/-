@@ -38,7 +38,18 @@ hr {
     border-radius: 0.25rem;
     position: absolute;
     right: 20px;
-    top: 60px;
+    top: 65px;
+}
+}
+.Google-font-to-Svg-Path{
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background-color: #6E24B2;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    position: absolute;
+    right: 20px;
+    top: 130px;
 }
 label {
     /* margin-right: 3ex; */
