@@ -1,5 +1,5 @@
 {
-  "name": "google-font-to-svg-path-japanese",
+  "name": "google-font-to-svg-path",
   "version": "1.0.0",
   "description": "Create an SVG path from a Google font",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danmarshall/google-font-to-svg-path.git"
+    "url": "git+https://github.com/fynk7777/google-font-to-svg-path.git"
   },
   "keywords": [
     "google",
@@ -20,9 +20,9 @@
   "author": "Dan Marshall",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danmarshall/google-font-to-svg-path/issues"
+    "url": "https://github.com/fynk7777/google-font-to-svg-path/issues"
   },
-  "homepage": "https://github.com/danmarshall/google-font-to-svg-path#readme",
+  "homepage": "https://github.com/fynk7777/google-font-to-svg-path#readme",
   "dependencies": {
     "@types/google.fonts": "^1.0.1",
     "makerjs": "^0.9.71",
