@@ -67,9 +67,9 @@ var App = /** @class */ (function () {
         this.copyToClipboard = function () {
             _this.outputTextarea.select();
             document.execCommand('copy');
-            _this.copyToClipboardBtn.innerText = 'copied';
+            _this.copyToClipboardBtn.innerText = 'コピーしました';
             setTimeout(function () {
-                _this.copyToClipboardBtn.innerText = 'copy to clipboard';
+                _this.copyToClipboardBtn.innerText = 'クリップボードにコピー';
             }, 2000);
         };
         this.updateUrl = function () {
