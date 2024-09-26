@@ -1,5 +1,5 @@
 {
-  "name": "google-font-to-svg-path",
+  "name": "google-font-to-svg-path-japanese",
   "version": "1.0.0",
   "description": "Create an SVG path from a Google font",
   "main": "index.js",
